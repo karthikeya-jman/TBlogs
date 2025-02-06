@@ -40,7 +40,7 @@ export const samplePosts :postType[] = [
     {
         id :4 ,
         title : "My Dress-Up Darling",
-        imgUrl: "https://images8.alphacoders.com/126/1262847.jpg" ,
+        imgUrl: "https://th.bing.com/th/id/OIP.3h3gL2Ay0vVKYCcdq-J2rgHaEK?rs=1&pid=ImgDetMain" ,
         content : "My Dress-Up Darling is a Japanese manga series written and illustrated by Shinichi Fukuda. It began serialization in Square Enix's Young Gangan in January 2018, and has been compiled in 14 volumes as of November 2024.",
         date : ""
     },

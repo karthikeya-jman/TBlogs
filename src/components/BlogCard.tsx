@@ -3,7 +3,7 @@ import { blogDetails } from '../utils/models'
 
 
 const BlogCard :React.FC<blogDetails> = ({title,imgUrl,content}) => {
-    console.log(content);
+    // console.log(content);
     
     return (
         <div className="flex gap-2 flex-col bg-white p-2 text-black rounded-lg">

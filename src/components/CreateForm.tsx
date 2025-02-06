@@ -29,7 +29,7 @@ const CreateForm :React.FC<ack> = ({success, setSuccess}) => {
         setTitle("")
         setImgUrl("")
         setContent("")
-        console.log(newPost);
+        // console.log(newPost);
         setSuccess(!success)
         
     }
